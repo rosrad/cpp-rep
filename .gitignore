@@ -1,3 +1,5 @@
 build/
 kaldi/
 test/
+libxx~lib.bk/
+libcxxabi.bk/
